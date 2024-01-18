@@ -1,8 +1,7 @@
 # SistemaBancarioV1
-Desafio de Projeto - Bootcamp Python Developer
-        
-        Plataforma de ensino "DIO"
+Plataforma de ensino "DIO"
 
+    Desafio de Projeto - Bootcamp Python Developer
 
 Sistema desenvolvido com as seguintes operações:
 
